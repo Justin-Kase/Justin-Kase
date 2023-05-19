@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justin-Kase
-- 👀 I’m interested in coding for the internet, music, blockchain and other cool stuff. 
+- 👀 I’m interested in coding for the internet, music, science, blockchain and other cool stuff. 
 - 🌱 I’m currently learning Django, Python, SaSS, reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
