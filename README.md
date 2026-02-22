@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justin-Kase
 - 👀 I’m interested in coding for music, science and the blockchain. 
-- 🌱 I’m currently working mostly with Python and JavaScript
+- 🌱 I’m currently working mostly with TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
