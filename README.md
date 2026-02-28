@@ -14,7 +14,8 @@ Sanity CMS
 Integrated payments, onboarding flows, and automated content pipelines
 Modular features for local businesses, events, and real estate
 
-Ill Bomb Records
+IllBomb.com
+
 Independent electronic label focused on underground techno and experimental club music.
 
 Full website rebuild (Next.js)
