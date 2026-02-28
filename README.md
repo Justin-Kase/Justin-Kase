@@ -1,4 +1,5 @@
-👋 Hi, I’m Justin
+👋 Hi, I’m Justin,
+
 Founder, technical architect, and full‑stack engineer building scalable platforms, creative tools, and automation systems. I work at the intersection of modern JavaScript, AI agents, content systems, and real‑world business workflows.
 
 I like solving hard problems with clean architecture, fast iteration, and a bias toward shipping.
