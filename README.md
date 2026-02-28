@@ -17,20 +17,29 @@ IllBomb.com
 Independent electronic label focused on underground techno and experimental club music.
 
 Full website rebuild (Next.js)
+
 Bandcamp + LabelWorx integrations
+
 Promo system, analytics, and artist tools
+
 Brand content, release pages, and catalog automation
 
+
 AI + Automation
+
 Hands‑on with:
 
 OpenClaw agents
 
 DeepSeek API integrations
+
 Workflow automation
+
 Local dev tools, CLI utilities, and custom scripts
 
+
 🧠 What I Work With
+
 Frontend: Next.js, React, Vue, Tailwind
 Backend: Node.js, Drizzle, PostgreSQL, Supabase
 DevOps: Vercel, GitHub Actions, Docker (when needed)
@@ -41,7 +50,9 @@ Other: SEO, schema design, content strategy, brand systems
 Founder of Ill Bomb Records
 
 Electronic music producer & DJ
+
 Obsessed with dark, underground techno aesthetics
+
 Always building something—platforms, tools, or weird experiments
 
 📫 Connect
