@@ -1,6 +1,6 @@
 👋 Hi, I’m Justin,
 
-Founder, technical architect, and full‑stack engineer building scalable platforms, creative tools, and automation systems. 
+I'm a full‑stack engineer building scalable platforms, creative tools, and automation systems. 
 
 AI + Automation
 
