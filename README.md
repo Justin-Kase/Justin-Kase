@@ -1,28 +1,13 @@
 👋 Hi, I’m Justin,
 
-I'm a full‑stack engineer building scalable platforms, creative tools, and automation systems. 
+Full‑stack engineer building fast, modern web platforms.
 
-AI + Automation
+Founder of Saugerties.com
 
-Hands‑on with:
+Running Ill Bomb Records
 
-OpenClaw agents
+Working with Next.js, Node, PostgreSQL, and modern CMS tools
 
-🧠 What I Work With
+Experimenting with AI agents and automation
 
-Frontend: Next.js, React, Vue, Tailwind
-
-Backend: Node.js, Drizzle, PostgreSQL, Supabase
-
-DevOps: Vercel, GitHub Actions, Docker (when needed)
-
-AI: OpenClaw, DeepSeek, LLM‑driven workflows
-
-Other: SEO, schema design, content strategy, brand systems
-
-Always building something—platforms, tools, or weird experiments
-
-📫 Connect
-GitHub: @Justin‑Kase
-
-Email: Available on request
+Always shipping, always learning.
